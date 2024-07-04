@@ -8,7 +8,10 @@ Mentor : Sravani Gouni
 ### OVERVIEW OF THE PROJECT
 
 **Project : Chatbot Development for Customer Support Using ManyChat**
-
+![Screenshot 2024-07-04 222819](https://github.com/kimaya18/CODTECT-Internship-Task-1/assets/123285976/388e20ec-5e3f-4425-8dae-554f44a14038)
+![Screenshot 2024-07-04 222954](https://github.com/kimaya18/CODTECT-Internship-Task-1/assets/123285976/20a226a7-5856-4aba-9a8e-b05ad16a594f)
+![Screenshot 2024-07-04 223515](https://github.com/kimaya18/CODTECT-Internship-Task-1/assets/123285976/b3f38c43-7809-4fdf-bc26-f6d73187968a)
+![Screenshot 2024-07-04 223906](https://github.com/kimaya18/CODTECT-Internship-Task-1/assets/123285976/1f77ce24-206c-4837-9025-c377ad9d26b7)
 
 
 **Project Description:**
